@@ -26,5 +26,6 @@ npm install
 npm start
 ```
 
+[![IMAGE ALT TEXT HERE](http://anthonydelgado.me/img/screenshot.png)](https://docs.google.com/presentation/d/18lt_b6yegkeQ05HiFDU6XvnqClYANNP1xLZA4H3qUXw/edit?usp=sharing)
 
-[![Twilio](http://anthonydelgado.me/img/screenshot.png)] 
+ 
